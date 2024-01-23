@@ -26,5 +26,8 @@
     <None Include="shader\shader.frag">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="shader\compile.bat">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
